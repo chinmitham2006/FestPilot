@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Streamlit / editor
+.streamlit/credentials.toml
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
