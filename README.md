@@ -4,9 +4,9 @@ FestPilot is a Streamlit-based planning prototype that brings together venue dis
 
 ## Project team
 
-- **Chinmitha M.** — 1DB25CI019
-- **Kavana Bhageerath Nayak** — 1DB25CI043
-- **Komal P. Shah** — 1DB25CI048
+- **Chinmitha M.** 
+- **Kavana Bhageerath Nayak** 
+- **Komal P. Shah**
 
 ## Features
 
